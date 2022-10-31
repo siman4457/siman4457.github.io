@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: '../../images/climbing.jpeg'
+imageAlt: 'About Gatsby Theme Portfolio Minimal'
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+If you're wondering how my name is pronounced, it sounds just like "Simon". If you already knew that, kudos to you! :-)
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I'm a software engineer based out of Austin Texas. I currently work at Visa as a fullstack engineer for our Operations and Infrastructure team.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+You can probably find me rock climbing at the gym or outdoors at the Green Belt! You can check out some route's I've climbed <a href="https://openbeta.io/u/wawaloo_17">here</a> on OpenBeta, an open source project I've been working on, alongside other climbers.
