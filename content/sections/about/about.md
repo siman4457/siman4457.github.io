@@ -7,4 +7,4 @@ If you're wondering how my name is pronounced, it sounds just like "Simon". If y
 
 I'm a software engineer based out of Austin Texas. I currently work at Visa as a fullstack engineer for our Operations and Infrastructure team.
 
-You can probably find me rock climbing at the gym or outdoors at the Green Belt! You can check out some route's I've climbed <a href="https://openbeta.io/u/wawaloo_17">here</a> on OpenBeta, an open source project I've been working on, alongside other climbers.
+You can probably find me rock climbing at the gym or outdoors on some limestone. You can check out some route's I've climbed <a style="font-weight: bold; text-decoration: underline;" href="https://openbeta.io/u/wawaloo_17">here</a> on OpenBeta, an open source project I've been working on, alongside other climbers.

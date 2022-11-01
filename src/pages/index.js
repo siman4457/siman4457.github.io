@@ -16,11 +16,11 @@ export default function IndexPage() {
       <Seo title='Siman Shrestha Software Engineer' />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId='hero' />
-        {/* <ArticlesSection
+        <ArticlesSection
           sectionId='articles'
           heading='Latest Articles'
           sources={['Medium']}
-        /> */}
+        />
         <AboutSection sectionId='about' heading='About Me' />
         {/* <InterestsSection sectionId='details' heading='Details' /> */}
         {/* <ProjectsSection sectionId='features' heading='Built-in Features' /> */}
