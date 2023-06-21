@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import {
   AboutSection,
   ArticlesSection,
@@ -7,13 +7,13 @@ import {
   InterestsSection,
   Page,
   ProjectsSection,
-  Seo
-} from 'gatsby-theme-portfolio-minimal'
+  Seo,
+} from 'gatsby-theme-portfolio-minimal';
 
 export default function IndexPage() {
   return (
     <>
-      <Seo title='Siman Shrestha Software Engineer' />
+      <Seo title='Siman Shrestha - Software Engineer' />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId='hero' />
         <ArticlesSection
@@ -27,5 +27,5 @@ export default function IndexPage() {
         {/* <ContactSection sectionId='github' heading='Issues?' /> */}
       </Page>
     </>
-  )
+  );
 }
