@@ -19,7 +19,7 @@ module.exports = {
           usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
         },
         googleAnalytics: {
-          trackingId: 'G-Z2HT47T95C',
+          trackingId: 'G-THZVGD347C',
           anonymize: false, // Default true
           environments: ['production', 'development'], // Default ["production"]
         },
