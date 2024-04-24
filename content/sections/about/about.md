@@ -5,7 +5,7 @@ imageAlt: 'About Gatsby Theme Portfolio Minimal'
 
 If you're wondering how my name is pronounced, it sounds just like "Simon". If you already knew that, kudos to you! :-)
 
-I'm a software engineer based out of Austin Texas. I currently work at Visa as a fullstack engineer on the Observablility team.
+I'm a software engineer based out of Austin Texas. I'm currently looking for my next gig, feel free to reach out if you think we should work togther!
 
 You can probably find me rock climbing at the gym or outdoors on some limestone. You can check out some route's I've climbed on OpenBeta, an open source project I've been working on, alongside other climbers.
 
