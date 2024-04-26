@@ -5,14 +5,14 @@
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "../../images/face-with-cowboy-hat.png",
+    "alt": "Face With Cowboy Hat Emoji"
   },
   "title": "I'm Siman",
   "subtitle": {
     "prefix": "",
-    "highlight": "Human",
-    "suffix": ", rock climber, software engineer."
+    "highlight": "",
+    "suffix": "Software engineer based out of Austin, TX. "
   },
   "description": "",
   "socialProfiles": {
